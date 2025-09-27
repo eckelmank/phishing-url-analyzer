@@ -1,0 +1,11 @@
+url
+https://www.wellsfargo.com/
+https://university.edu/login
+http://192.168.0.5/verify
+http://example.zip/account/update
+https://secure-account-confirm.example.com/reset
+http://example.com@evil.com/login
+https://paypal.com/
+https://billing-verify-update.example.co/path
+http://very-long-domain-name-123-456.example.net/some/really/long/path?x=1%20y=2
+https://mybank.support-login-secure.co/verify
